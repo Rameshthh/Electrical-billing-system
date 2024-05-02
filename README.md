@@ -11,10 +11,8 @@ The Electrical Billing System with GOI Integration is a project aimed at streaml
 - **Admin Dashboard**: Enables utility providers to manage accounts, monitor consumption trends, and generate reports.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **GOI Integration**: APIs provided by Government of India for regulatory compliance
+- **Frontend**: JAVA GUI
+- **Backend**: SQL
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your-username/electrical-billing-system.git`
